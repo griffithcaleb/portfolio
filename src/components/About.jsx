@@ -1,5 +1,5 @@
 import React from 'react'
-import ReactAudioPlayer from 'react-audio-player';
+// import ReactAudioPlayer from 'react-audio-player';
 
 export const About = () => (
   <div style={{display: 'flex', flexDirection: 'row', justifyContent: 'space-evenly'}}>
