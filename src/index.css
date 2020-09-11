@@ -31,7 +31,7 @@ h3 {
 
 .resumeText {
   position: relative;
-  transition: color 0.1s
+  transition: color 0.1s;
 }
 .resumeText:hover {
   color: #008B8B;

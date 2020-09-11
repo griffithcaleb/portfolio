@@ -3,7 +3,7 @@ import ReactAudioPlayer from 'react-audio-player';
 
 export const About = () => (
   <div style={{display: 'flex', flexDirection: 'row', justifyContent: 'space-evenly'}}>
-    <div style={{marginTop: 100, marginRight: 20}}>
+    <div style={{marginTop: 100, marginRight: 20, flex: 1}}>
     <h2><span className='highlight'>Welcome!</span> I'm Caleb.</h2>
     <h3>I am a Full-Stack Engineer specializing in <span className='highlight'>React Native</span> and <span className='highlight'>Ruby on Rails.</span></h3> 
     <h3>
@@ -16,8 +16,8 @@ export const About = () => (
       controls
   />
     </div>
-    <iframe title='sim' src="https://appetize.io/embed/b5k3m1hvyq1kw0thbt1p0cjk78?device=iphone8&scale=60&orientation=portrait&deviceColor=black"
-     width="378px" height="600px" frameborder="0" scrolling="no"></iframe>
+    <iframe title='sim' src="https://appetize.io/embed/b5k3m1hvyq1kw0thbt1p0cjk78?device=iphone8&scale=75&orientation=portrait&deviceColor=black"
+     width='400px' height="900px" frameborder="0" scrolling="no"></iframe>
   </div>
 )
 
