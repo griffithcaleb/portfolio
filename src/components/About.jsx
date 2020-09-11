@@ -16,7 +16,7 @@ export const About = () => (
       controls
   />
     </div>
-    <iframe title='sim' src="https://appetize.io/embed/10rbk1vx3wtx532hk2kqwnvmb4?device=iphone8&scale=60&autoplay=true&orientation=portrait&deviceColor=black"
+    <iframe title='sim' src="https://appetize.io/embed/b5k3m1hvyq1kw0thbt1p0cjk78?device=iphone8&scale=60&autoplay=true&orientation=portrait&deviceColor=black"
      width="378px" height="600px" frameborder="0" scrolling="no"></iframe>
   </div>
 )
