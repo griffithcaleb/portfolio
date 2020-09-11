@@ -37,3 +37,7 @@ h3 {
   color: #008B8B;
   cursor: pointer;
 }
+
+.mobileRes {
+  font-size: 16px;
+}
